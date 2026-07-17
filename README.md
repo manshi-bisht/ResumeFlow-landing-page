@@ -96,15 +96,6 @@ The website is optimized for:
 
 ---
 
-## 📸 Screens
-
-- Homepage
-- Login Page
-
-(Add screenshots here if available.)
-
----
-
 ## 🎨 Theme
 
 The project uses a modern dark color palette inspired by professional SaaS applications.
